@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+button {
+    color: #ffffff;
+    background-color: #616161; 
+    margin-top: 20px;
+}
+
+input {
+    color: #000000;
+    background-color: #4CAF50;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+#Heading {
+    font-size: 40px;
+}
+
+.para {
+    width: 49%;
+}
